@@ -118,6 +118,8 @@ fun HeaderImage() {
     Image(
         painter = painterResource(id = R.drawable.programadora_final),
         contentDescription = "logo de Mobdev"
+
+    //Imagen final
     )
 }
 
