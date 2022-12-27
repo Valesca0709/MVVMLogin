@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "529765849528",
+    "firebase_url": "https://login-8dedd-default-rtdb.firebaseio.com",
+    "project_id": "login-8dedd",
+    "storage_bucket": "login-8dedd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529765849528:android:8c2187f6c83174da6ed74d",
+        "android_client_info": {
+          "package_name": "com.androidenavanzado.mvvmlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529765849528-6toil7jlc9h6kg07rcb642po9gfmg550.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidenavanzado.mvvmlogin",
+            "certificate_hash": "3bc217ba58f1f6e4dcd32a20b71e0e1048b89f99"
+          }
+        },
+        {
+          "client_id": "529765849528-hs2b0rq3vlaub4c7h8us7uegisoloe6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCarph1GhvAHM7hCweiD4wBY0K1ycu1H0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529765849528-hs2b0rq3vlaub4c7h8us7uegisoloe6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
